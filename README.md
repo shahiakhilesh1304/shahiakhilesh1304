@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Akhilesh Pratap Shahi</h1>
-<h3>I am a Software Engineer - Solution and Data Engineering</h3>
+<h6>Software Engineer - Solution and Data Engineering</h6>
 
 <h1 align="center">ABOUT ME</h1>
 <h6><p>Hi There!<br>
