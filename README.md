@@ -2,7 +2,7 @@
 <h6 align="center">Software Engineer - Solution and Data Engineering</h6>
 
 <h1 align="center">ABOUT ME</h1>
-<a href="https://www.linkedin.com/in/akhileshshahi/"><h6><p>Hi There!<br>
+<h6><p>Hi There!<br>
 I am <b>Software Engineer -Solution and Data Engineering</b> at <b>MpHrx</b>. This is a healthcare Industry helping society with their effective product Minerva Natively based on FHIR® and vendor-neutral, Minerva aggregates data across your care delivery network – from multiple systems and formats to power your data exchange, accelerate data analytics, and meet Cures Act regulations.<br>
 I have <b>Bachelor's in Technology majoring in Computer Science</b>, during my graduation days I have been taking classes as an assistant professor within different Colleges and Universities for Java and Python. I have been extensively working as a <b>SOFTWARE DEVELOPER</b> for the last 3 Years with Java 8, SpringBoot, Hibernate/JPA repository, etc.<br>
 I started my career and worked around as a Software Developer creating several RESTful APIs, SOAP APIs, and Full Stack Projects using JAVA. While working as a Software Developer and understanding the importance of Data in the Market my Intrest grew in Data Science and Machine Learning, <b>I am trying to mold my career path into Data Scientist and Machine Learning</b>.<br>
@@ -10,7 +10,7 @@ Online Courses and YouTube Videos helped me a lot to become confident with my te
 
 <b>Akhilesh Pratap Shahi</b><br>
 <b>akhileshpra.shahi@gmail.com</b>
-  </p></h6></a>
+  </p></h6>
 
 - 🚀 I’m a **B.Tech Graduate major in Computer Science**
 
