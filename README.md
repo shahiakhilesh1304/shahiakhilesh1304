@@ -20,10 +20,6 @@
 </p>
 
 
-[![My Stats](https://github-readme-stats.vercel.app/api/top-langs?username=shahiakhilesh1304&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
-
-![Commits](https://github-readme-streak-stats.herokuapp.com/?user=shahiakhilesh1304&theme=material-palenight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=shahiakhilesh1304&show_icons=true&theme=material-palenight&layout=compact)
 
-![Snake animation](https://github.com/shahiakhilesh1304/shahiakhilesh1304/blob/output/github-contribution-grid-snake.svg)
