@@ -3,13 +3,13 @@
 
 <h1 align="center">ABOUT ME</h1>
 <h6><p>Hi There!<br>
-I am **Software Engineer -Solution and Data Engineering** at **MpHrx**. This is a healthcare Industry helping society with their effective product Minerva Natively based on FHIR® and vendor-neutral, Minerva aggregates data across your care delivery network – from multiple systems and formats to power your data exchange, accelerate data analytics, and meet Cures Act regulations.<br>
-I have **Bachelor's in Technology majoring in Computer Science**, during my graduation days I have been taking classes as an assistant professor within different Colleges and Universities for Java and Python. I have been extensively working as a **SOFTWARE DEVELOPER** for the last 3 Years with Java 8, SpringBoot, Hibernate/JPA repository, etc.<br>
-I started my career and worked around as a Software Developer creating several RESTful APIs, SOAP APIs, and Full Stack Projects using JAVA. While working as a Software Developer and understanding the importance of Data in the Market my Intrest grew in Data Science and Machine Learning, **I am trying to mold my career path into Data Scientist and Machine Learning**.<br>
+I am <b>Software Engineer -Solution and Data Engineering</b> at <b>MpHrx</b>. This is a healthcare Industry helping society with their effective product Minerva Natively based on FHIR® and vendor-neutral, Minerva aggregates data across your care delivery network – from multiple systems and formats to power your data exchange, accelerate data analytics, and meet Cures Act regulations.<br>
+I have <b>Bachelor's in Technology majoring in Computer Science</b>, during my graduation days I have been taking classes as an assistant professor within different Colleges and Universities for Java and Python. I have been extensively working as a **SOFTWARE DEVELOPER** for the last 3 Years with Java 8, SpringBoot, Hibernate/JPA repository, etc.<br>
+I started my career and worked around as a Software Developer creating several RESTful APIs, SOAP APIs, and Full Stack Projects using JAVA. While working as a Software Developer and understanding the importance of Data in the Market my Intrest grew in Data Science and Machine Learning, <b>I am trying to mold my career path into Data Scientist and Machine Learning</b>.<br>
 Online Courses and YouTube Videos helped me a lot to become confident with my technical concepts. Still growing my skill while taking hold of Java 8, Spring Boot, Hibernate/JPA Repository, Maven, MySQL, MongoDB, Python, Groovy, Azure DataBricks, SHELL, C, C++, ThymeLeaf, HTML5, CSS3, JavaScript, etc.
 
-**Akhilesh Pratap Shahi**<br>
-**akhileshpra.shahi@gmail.com**
+<b>Akhilesh Pratap Shahi</b><br>
+<b>akhileshpra.shahi@gmail.com</b>
   </p></h6>
 
 - 🚀 I’m a **B.Tech Graduate major in Computer Science**
