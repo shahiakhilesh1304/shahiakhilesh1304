@@ -9,7 +9,6 @@ I started my career and worked around as a Software Developer creating several R
 Online Courses and YouTube Videos helped me a lot to become confident with my technical concepts. Still growing my skill while taking hold of Java 8, Spring Boot, Hibernate/JPA Repository, Maven, MySQL, MongoDB, Python, Groovy, Azure DataBricks, SHELL, C, C++, ThymeLeaf, HTML5, CSS3, JavaScript, etc.
 
 **Akhilesh Pratap Shahi**<br>
-**+91-639-4187-213**<br>
 **akhileshpra.shahi@gmail.com**
   </p></h6>
 
