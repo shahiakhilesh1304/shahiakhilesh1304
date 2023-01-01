@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akhilesh Pratap Shahi</h1>
+<h1 align="center">Hi There👋, I'm Akhilesh Pratap Shahi</h1>
 <h6 align="center">Software Engineer - Solution and Data Engineering</h6>
 
 <h1 align="center">ABOUT ME</h1>
