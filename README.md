@@ -34,17 +34,10 @@ While working as a Software Developer, I developed a strong interest in data sci
 </p>
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api?username=shahiakhilesh1304&show_icons=true&theme=material-palenight&layout=compact)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahiakhilesh1304&theme=material-palenight&layout=compact)
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahiakhilesh1304&show_icons=true&theme=dracula)
-
-![Languages and Tools](https://github-readme-stats.vercel.app/api/top-langs/?username=shahiakhilesh1304&layout=compact&theme=onedark)
-
-![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=shahiakhilesh1304&theme=highcontrast)
 
 
 
