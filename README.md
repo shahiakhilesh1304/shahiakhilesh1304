@@ -32,10 +32,11 @@ While working as a Software Developer, I developed a strong interest in data sci
   
 <a href="https://dev.to/shahiakhilesh1304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shahiakhilesh1304" height="30" width="40" /></a>
   
+[![Hackerrank Logo](https://hrcdn.net/community-frontend/assets/hacker-rank-logo-new-white-green.png)](https://www.hackerrank.com/akhileshpra_sha1)
+  
 <a href="https://www.linkedin.com/in/akhileshshahi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahiakhilesh1304" height="30" width="40" /></a>
 </p>
-<a href="https://www.hackerrank.com/akhileshpra_sha1" target="blank"><img align="center" src="https://www.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.svg" alt="shahiakhilesh1304" height="30" width="40" /></a>
-</p>
+
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahiakhilesh1304&theme=material-palenight&layout=compact)
