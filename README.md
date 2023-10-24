@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my GitHub profile! 👋</h1>
-<h6 align="center">Hello there! My name is Akhilesh Pratap Shahi, and I'm a Software Engineer at MpHrx. I use this GitHub profile to showcase some of my work.</h6>
+<h6 align="center">Hello there! My name is Akhilesh Pratap Shahi, and I'm a Deputy Manager - Data Engineer at Reliance Jio. I use this GitHub profile to showcase some of my work.</h6>
 
 <h1 align="center">About me</h1>
 <p>I hold a Bachelor's in Technology with a major in Computer Science. During my college years, I also worked as an assistant professor for Java and Python classes at various colleges and universities. For the past three years, I have worked as a Software Developer with a focus on Java 8, SpringBoot, Hibernate/JPA repository, and other technologies.
