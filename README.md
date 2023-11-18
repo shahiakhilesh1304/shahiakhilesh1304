@@ -43,4 +43,3 @@ While working as a Software Developer, I developed a strong interest in data sci
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahiakhilesh1304&show_icons=true&theme=dracula)
 
 
-![Snake animation](https://github.com/shahiakhilesh1304/shahiakhilesh1304/blob/output/github-contribution-grid-snake.svg)
