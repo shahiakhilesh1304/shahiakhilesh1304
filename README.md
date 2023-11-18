@@ -25,7 +25,6 @@ While working as a Software Developer, I developed a strong interest in data sci
 
 - 📫 How to reach me **akhileshpra.shahi@gmail.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahiakhilesh1304&label=Profile%20Reach&color=0e75b6&style=flat" alt="shahiakhilesh1304" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 
@@ -43,3 +42,5 @@ While working as a Software Developer, I developed a strong interest in data sci
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahiakhilesh1304&show_icons=true&theme=dracula)
 
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahiakhilesh1304&label=Profile%20Reach&color=0e75b6&style=flat" alt="shahiakhilesh1304" /> </p>
