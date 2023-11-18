@@ -5,11 +5,11 @@ on:
   workflow_dispatch:
 jobs:
   build:
-    name: Jobs to update datas
+    name: generate-snake-game-from-github-contribution-grid
     runs-on: ubuntu-latest
     steps:
       # Snake Animation
-      - uses: Platane/snk@master
+      - uses: Platane/snk@v3.2.0
         id: snake-gif
   
         with:
