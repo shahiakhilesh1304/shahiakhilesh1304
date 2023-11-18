@@ -30,11 +30,11 @@ While working as a Software Developer, I developed a strong interest in data sci
 <h3 align="left">Connect with me:</h3>
 
 
-![Dev.to](https://dev.to/shahiakhilesh1304)
+- [Dev.to](https://dev.to/shahiakhilesh1304)
 
-![HackerRank](https://www.hackerrank.com/akhileshpra_sha1)
+- [HackerRank](https://www.hackerrank.com/akhileshpra_sha1)
 
-![LinkedIn](https://www.linkedin.com/in/akhileshshahi/)
+- [LinkedIn](https://www.linkedin.com/in/akhileshshahi/)
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahiakhilesh1304&theme=material-palenight&layout=compact)
