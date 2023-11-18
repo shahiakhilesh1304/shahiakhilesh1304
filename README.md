@@ -1,3 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  body {
+    background-color: #000000;
+    color: #ffffff;
+  }
+</style>
+</head>
+<body>
+
 # Welcome to My GitHub Profile! 👋
 
 ## About Me
@@ -28,9 +40,9 @@ If you're interested in discussing potential opportunities or just want to say h
 
 ## Social Media & Coding Platforms
 
-- [Dev.to](https://dev.to/shahiakhilesh1304)
-- [HackerRank](https://www.hackerrank.com/akhileshpra_sha1)
-- [LinkedIn](https://www.linkedin.com/in/akhileshshahi/)
+<a href="https://dev.to/shahiakhilesh1304" target="blank"><img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="shahiakhilesh1304" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/akhileshpra_sha1" target="blank"><img align="center" src="https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg" alt="shahiakhilesh1304" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akhileshshahi/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALinkedIn_icon.svg&psig=AOvVaw1BWyf-FNXSsYrQw0N4TNKC&ust=1700430287923000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCPCS7svCzoIDFQAAAAAdAAAAABAE" alt="shahiakhilesh1304" height="30" width="40" /></a>
 
 ## GitHub Stats
 
@@ -42,3 +54,6 @@ If you're interested in discussing potential opportunities or just want to say h
 Thank you for visiting my profile. I hope you find something interesting here. Feel free to explore my projects and connect with me!
 
 [![Visitors](https://komarev.com/ghpvc/?username=shahiakhilesh1304&label=Profile%20Visitors&color=0e75b6&style=flat)](https://github.com/shahiakhilesh1304)
+
+</body>
+</html>
