@@ -28,8 +28,12 @@ While working as a Software Developer, I developed a strong interest in data sci
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahiakhilesh1304&label=Profile%20Reach&color=0e75b6&style=flat" alt="shahiakhilesh1304" /> </p>
 
 <h3 align="left">Connect with me:</h3>
+
+
 ![Dev.to](https://dev.to/shahiakhilesh1304)
+
 ![HackerRank](https://www.hackerrank.com/akhileshpra_sha1)
+
 ![LinkedIn](https://www.linkedin.com/in/akhileshshahi/)
 
 
