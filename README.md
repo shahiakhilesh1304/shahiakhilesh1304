@@ -34,8 +34,8 @@ If you're interested in discussing potential opportunities or just want to say h
 
 ## GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahiakhilesh1304&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahiakhilesh1304&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahiakhilesh1304&theme=material-palenight&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahiakhilesh1304&show_icons=true&theme=dracula)
 
 ## Thank You for Stopping By!
 
