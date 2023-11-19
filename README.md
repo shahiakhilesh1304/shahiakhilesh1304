@@ -25,6 +25,9 @@ While working as a Software Developer, I developed a strong interest in data sci
 
 - 📫 How to reach me **akhileshpra.shahi@gmail.com**
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 
