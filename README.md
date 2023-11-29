@@ -31,6 +31,7 @@ While working as a Software Developer, I developed a strong interest in data sci
 
 <h3 align="left">Connect with me:</h3>
 
+- [Contact Info](https://linktr.ee/akhileshpra.shahi)
 
 - [Dev.to](https://dev.to/shahiakhilesh1304)
 
