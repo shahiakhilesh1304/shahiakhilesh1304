@@ -115,4 +115,4 @@ For me, it's all about that relentless pursuit of knowledge and excellence. I'm 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahiakhilesh1304&show_icons=true&locale=en" alt="shahiakhilesh1304" /></p>
 
-<p><img width="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shahiakhilesh1304&" /></p>
+[![GitHub Streak](https://github-readme-streak-stats-mocha-sigma.vercel.app?user=shahiakhilesh1304)](https://git.io/streak-stats)
