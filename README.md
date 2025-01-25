@@ -150,5 +150,8 @@ I'm always open to connecting with like-minded professionals, collaborators, and
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/shahiakhilesh1304)
 
 
-
-SNAKE CONTRIBUTOR GAME
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shahiakhilesh1304/shahiakhilesh1304/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shahiakhilesh1304/shahiakhilesh1304/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shahiakhilesh1304/shahiakhilesh1304/output/github-contribution-grid-snake.svg">
+</picture>
