@@ -152,7 +152,7 @@ target="blank">
 
 I'm always open to connecting with like-minded professionals, collaborators, and anyone interested in discussing technology, data engineering, or innovation. Feel free to reach out to me through the following channels:
 
-[![Email](https://img.shields.io/badge/Email-akhileshpra.shahi%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhileshpra.shahi@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhileshpra.shahi@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akhileshshahi)  
 
 
