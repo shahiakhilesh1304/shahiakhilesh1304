@@ -16,7 +16,9 @@
   <img src="https://badges.pufler.dev/commits/daily/shahiakhilesh1304" alt="shahiakhilesh1304" /> 
   <img src="https://badges.pufler.dev/repos/shahiakhilesh1304" alt="shahiakhilesh1304" /> 
 </p>
-<p align="center"> <img src="https://badges.pufler.dev/last-stars/shahiakhilesh1304?count=10&padding=15&perRow=3" alt="shahiakhilesh1304" /> 
+
+
+<p align="center"> <img src="https://badges.pufler.dev/last-stars/shahiakhilesh1304?count=10&padding=10&perRow=3" alt="shahiakhilesh1304" /> 
 
 
 
