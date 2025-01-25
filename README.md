@@ -28,7 +28,7 @@ For me, it's all about that relentless pursuit of knowledge and excellence. I'm 
 <h3 align="center">GitHub Achievements</h3>
 <p align="center">
   <a href="https://github.com/users/shahiakhilesh1304/achievements/yolo" target="_blank" rel="noreferrer"> <img src="https://github.com/shahiakhilesh1304/shahiakhilesh1304/assets/29931371/c19920ad-bd3c-4296-938b-6de218817769" width="60" height="60"/> </a> 
-  <a href="https://github.com/users/shahiakhilesh1304/achievements/pull-shark" target="_blank" rel="noreferrer"> <img src="https://github.com/shahiakhilesh1304/shahiakhilesh1304/assets/29931371/a0b82dd5-84f4-4217-8857-0c095759536e" width="60" height="60"/> </a>
+  <a href="https://github.com/users/shahiakhilesh1304/achievements/pull-shark" target="_blank" rel="noreferrer"> <img src="https://github.com/shahiakhilesh1304/shahiakhilesh1304/assets/29931371/a0b82dd5-84f4-4217-8857-0c095759536e" width="60" height="60"/> 2x </a>
   <a href="https://github.com/users/shahiakhilesh1304/achievements/quickdraw" target="_blank" rel="noreferrer"> <img src="https://github.com/shahiakhilesh1304/shahiakhilesh1304/assets/29931371/000c33b3-281e-4573-973d-8d25cd534a76" width="60" height="60"/> </a>
 </p> 
 
