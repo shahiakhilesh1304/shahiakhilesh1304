@@ -154,9 +154,8 @@ I'm always open to connecting with like-minded professionals, collaborators, and
 
 [![Email](https://img.shields.io/badge/Email-akhileshpra.shahi%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhileshpra.shahi@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akhileshshahi)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/akhileshpra_sha1)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/akhileshshahi)  
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/shahiakhilesh1304)
+
+
 
 
 <picture>
