@@ -2,6 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=15&duration=4994&pause=992&center=true&vCenter=true&width=900&lines=Data+Engineer+at+Jio+in+Bengaluru;Creative+Data+Problem+Solver;Machine+Learning+Enthusiast;Versatile+Programmer;Aspiring+AI+Engineer+%2F+Data+Scientist;Data+Architect;Data-Driven+Decision+Maker+;Experienced+-+Software+Developer+%2F+Data+Engineer+%2F+Software+Engineer+%2F+Web+Developer)](https://git.io/typing-svg)
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/19292210/199123129-b9c2437d-4e6d-4f1c-a7ea-d9a91babb41d.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif">
+  <img alt="[An animated gif of an Octocat using a teleporter in dark and light modes. If you switch your color theme, you can see it in the other color mode:)" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png](https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif)">
+</picture>
+
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=shahiakhilesh1304&label=Profile%20views&color=0e75b6&style=flat" alt="shahiakhilesh1304" />
   <img src="https://badges.pufler.dev/commits/yearly/shahiakhilesh1304" alt="shahiakhilesh1304" /> 
