@@ -143,7 +143,6 @@ target="blank">
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shahiakhilesh1304&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats-mocha-sigma.vercel.app?user=Shahiakhilesh1304&theme=nightfox" alt="GitHub Streak" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahiakhilesh1304&show_icons=true&locale=en" alt="shahiakhilesh1304" />
 </p>
 
 ## 🌐 Connect With Me
