@@ -163,4 +163,4 @@ I'm always open to connecting with like-minded professionals, collaborators, and
 
 
 
-<p align="center"> <img src="https://badges.pufler.dev/last-stars/shahiakhilesh1304?count=9&perRow=1" alt="shahiakhilesh1304" /> 
+<!-- <p align="center"> <img src="https://badges.pufler.dev/last-stars/shahiakhilesh1304?count=9&perRow=1" alt="shahiakhilesh1304" /> --> 
