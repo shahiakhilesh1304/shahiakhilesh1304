@@ -11,10 +11,10 @@
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=shahiakhilesh1304&label=Profile%20views&color=0e75b6&style=flat" alt="shahiakhilesh1304" />
-  <img src="https://badges.pufler.dev/commits/yearly/shahiakhilesh1304" alt="shahiakhilesh1304" /> 
+<!--   <img src="https://badges.pufler.dev/commits/yearly/shahiakhilesh1304" alt="shahiakhilesh1304" /> 
   <img src="https://badges.pufler.dev/commits/monthly/shahiakhilesh1304" alt="shahiakhilesh1304" /> 
   <img src="https://badges.pufler.dev/commits/daily/shahiakhilesh1304" alt="shahiakhilesh1304" /> 
-  <img src="https://badges.pufler.dev/repos/shahiakhilesh1304" alt="shahiakhilesh1304" /> 
+  <img src="https://badges.pufler.dev/repos/shahiakhilesh1304" alt="shahiakhilesh1304" />  -->
 </p>
 
 
