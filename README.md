@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Akhilesh Pratap Shahi
+# Hi, I'm Akhilesh Pratap Shahi
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=15&duration=4994&pause=992&center=true&vCenter=true&width=900&lines=Data+Engineer+at+Jio+in+Bengaluru;Creative+Data+Problem+Solver;Machine+Learning+Enthusiast;Versatile+Programmer;Aspiring+AI+Engineer+%2F+Data+Scientist;Data+Architect;Data-Driven+Decision+Maker+;Experienced+-+Software+Developer+%2F+Data+Engineer+%2F+Software+Engineer+%2F+Web+Developer)](https://git.io/typing-svg)
 
@@ -29,9 +29,9 @@
 4. Fintree Global Research | Software Developer(co - founder)
    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=15&duration=4994&pause=992&center=true&vCenter=true&width=900&lines=Co-founder+(CTO);Core+Technologies%3A+Java%2C+Spring+Boot%2C+Hibernate;Approach%3A+Streamlining+backend+processes;Technological+Strategy;Operational+Excellence;System+Architecture+Design;Innovation+Management)](https://git.io/typing-svg)
 
-## 💻 My Technology Ecosystem
+## My Technology Ecosystem
 
-### 🖥️ Programming Languages
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
@@ -40,7 +40,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apache-groovy&logoColor=white)
 
-### 🌐 Web Technologies
+### Web Technologies
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
@@ -49,7 +49,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
@@ -58,7 +58,7 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🗃️ Databases
+### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -66,7 +66,7 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 ![Apache Druid](https://img.shields.io/badge/Apache_Druid-1D90FF?style=for-the-badge&logo=apache&logoColor=white)
 
-### 📊 Big Data & Analytics
+### Big Data & Analytics
 ![Hadoop](https://img.shields.io/badge/Apache_Hadoop-F9C03D?style=for-the-badge&logo=apache&logoColor=black)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
@@ -74,29 +74,29 @@
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
 
-### 🤖 Machine Learning & AI
+### Machine Learning & AI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### 📈 Data Science Tools
+### Data Science Tools
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 
-### 🎨 Design Tools
+### Design Tools
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 
-### 🔧 Additional Technologies
+### Additional Technologies
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
 and many more . . . 
 
-### 🚀 GitHub Achievements
+### GitHub Achievements
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahiakhilesh1304" alt="shahiakhilesh1304" /></a> </p>
 
@@ -135,15 +135,15 @@ target="blank">
 
 
 
-## 🚀 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shahiakhilesh1304&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats-mocha-sigma.vercel.app?user=Shahiakhilesh1304&theme=nightfox" alt="GitHub Streak" />
 </p>
 
-## 🌐 Connect With Me
-### 🔗 Professional Constellation
+## Connect With Me
+### Professional Constellation
 ## Contact Me
 
 I'm always open to connecting with like-minded professionals, collaborators, and anyone interested in discussing technology, data engineering, or innovation. Feel free to reach out to me through the following channels:
