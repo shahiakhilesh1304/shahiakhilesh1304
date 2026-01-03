@@ -138,7 +138,6 @@ target="blank">
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahiakhilesh1304&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats-mocha-sigma.vercel.app?user=Shahiakhilesh1304&theme=nightfox" alt="GitHub Streak" />
 </p>
 
