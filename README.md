@@ -98,7 +98,7 @@ and many more . . .
 
 ### GitHub Achievements
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahiakhilesh1304" alt="shahiakhilesh1304" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahiakhilesh1304" alt="shahiakhilesh1304" /></a> </p> -->
 
 
 <p align="center">
