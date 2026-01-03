@@ -154,8 +154,3 @@ target="blank">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shahiakhilesh1304/shahiakhilesh1304/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shahiakhilesh1304/shahiakhilesh1304/output/github-contribution-grid-snake.svg">
 </picture>
-
-
-
-
-<p align="center"> <img src="https://badges.pufler.dev/last-stars/shahiakhilesh1304?count=9&perRow=1" alt="shahiakhilesh1304" />
