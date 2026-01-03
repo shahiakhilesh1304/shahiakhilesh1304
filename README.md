@@ -10,8 +10,8 @@
 </picture>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=shahiakhilesh1304&label=Profile%20views&color=0e75b6&style=flat" alt="shahiakhilesh1304" />
-<!--   <img src="https://badges.pufler.dev/commits/yearly/shahiakhilesh1304" alt="shahiakhilesh1304" /> 
+  <img src="https://komarev.com/ghpvc/?username=shahiakhilesh1304&label=Profile%20views&color=0e75b6&style=flat" alt="shahiakhilesh1304" />   
+  <img src="https://badges.pufler.dev/commits/yearly/shahiakhilesh1304" alt="shahiakhilesh1304" /> 
   <img src="https://badges.pufler.dev/commits/monthly/shahiakhilesh1304" alt="shahiakhilesh1304" /> 
   <img src="https://badges.pufler.dev/commits/daily/shahiakhilesh1304" alt="shahiakhilesh1304" /> 
   <img src="https://badges.pufler.dev/repos/shahiakhilesh1304" alt="shahiakhilesh1304" />  -->
@@ -96,10 +96,22 @@
 
 and many more . . . 
 
-### GitHub Achievements
 
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahiakhilesh1304" alt="shahiakhilesh1304" /></a> </p> -->
 
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-mocha-sigma.vercel.app?user=Shahiakhilesh1304&theme=nightfox" alt="GitHub Streak" />
+</p>
+
+### Professional Constellation
+## Contact Me
+
+I'm always open to connecting with like-minded professionals, collaborators, and anyone interested in discussing technology, data engineering, or innovation. Feel free to reach out to me through the following channels:
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhileshpra.shahi@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akhileshshahi)  
 
 <p align="center">
 <a href="https://dev.to/https://dev.to/shahiakhilesh1304" target="blank">
@@ -135,22 +147,6 @@ target="blank">
 
 
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-mocha-sigma.vercel.app?user=Shahiakhilesh1304&theme=nightfox" alt="GitHub Streak" />
-</p>
-
-## Connect With Me
-### Professional Constellation
-## Contact Me
-
-I'm always open to connecting with like-minded professionals, collaborators, and anyone interested in discussing technology, data engineering, or innovation. Feel free to reach out to me through the following channels:
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhileshpra.shahi@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akhileshshahi)  
-
-
 
 
 <picture>
@@ -162,4 +158,4 @@ I'm always open to connecting with like-minded professionals, collaborators, and
 
 
 
-<!-- <p align="center"> <img src="https://badges.pufler.dev/last-stars/shahiakhilesh1304?count=9&perRow=1" alt="shahiakhilesh1304" /> --> 
+<p align="center"> <img src="https://badges.pufler.dev/last-stars/shahiakhilesh1304?count=9&perRow=1" alt="shahiakhilesh1304" />
