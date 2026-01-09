@@ -14,7 +14,7 @@
   <img src="https://badges.pufler.dev/commits/yearly/shahiakhilesh1304" alt="shahiakhilesh1304" /> 
   <img src="https://badges.pufler.dev/commits/monthly/shahiakhilesh1304" alt="shahiakhilesh1304" /> 
   <img src="https://badges.pufler.dev/commits/daily/shahiakhilesh1304" alt="shahiakhilesh1304" /> 
-  <img src="https://badges.pufler.dev/repos/shahiakhilesh1304" alt="shahiakhilesh1304" />  -->
+  <img src="https://badges.pufler.dev/repos/shahiakhilesh1304" alt="shahiakhilesh1304" />  
 </p> -->
 
 
