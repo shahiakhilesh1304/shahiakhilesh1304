@@ -98,12 +98,13 @@ and many more . . .
 
 
 
-
+<!--
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-mocha-sigma.vercel.app?user=Shahiakhilesh1304&theme=nightfox" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-mocha-sigma.vercel.app?user=shahiakhilesh1304&theme=nightfox" alt="GitHub Streak" />
 </p>
+-->
 
 ### Professional Constellation
 ## Contact Me
@@ -137,11 +138,8 @@ target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
   alt="@akhileshpra.shahi" height="30" width="40" />
 </a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/akhileshpra_sha1"
-target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-  alt="https://www.hackerrank.com/akhileshpra_sha1" height="30" width="40"
-  />
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/akhileshpra_sha1" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/akhileshpra_sha1" height="30" width="40"/>
 </a>
 </p> 
 
